@@ -1,0 +1,1 @@
+El servidor se reinicio despues de pasar a la batería externa
