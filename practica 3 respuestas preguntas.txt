@@ -1,0 +1,11 @@
+3.2.1 tocar el sensor por unos momentos con los dedos... que pasa?
+	R: El dato de la temperatura aumenta
+
+3.2.2 Acercarse al sensor y aventar un poco de aliento (vaho)... que pasa???
+	R: El dato de la humedad cambia
+
+Acercar a diferentes distancias cosas hacia el sensor.... Que pasa??
+	R: La distancia se actualiza dependiendo de que tan cerca o lejos este
+
+Cómo aumentarias el storage para guardar mas tarjetas? Analiza el código... y responde
+	R: Dentro del codigo se actualizan las tarjetas que se van a agregar, debe de haber algun otro modo de hacerlo más eficiente
